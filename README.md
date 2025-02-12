@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Frank and I'm a Front-end Developer based in London</p>
+<p align="left">My name is Frank and I'm a Software Engineer based in London</p>
 
 ###
 
